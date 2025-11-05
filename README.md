@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto de aprendizagem seguindo o curso.dev (http://curso.dev)
+Implementação do projeto https://www.tabnews.com.br para aprendizagem seguindo o http://curso.dev
